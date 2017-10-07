@@ -1,0 +1,19 @@
+{
+  "name": "js-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "js-import": "bin/js-import.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find-root": "^1.1.0",
+    "fs-extra": "^4.0.2",
+    "minimist": "^1.2.0"
+  }
+}
